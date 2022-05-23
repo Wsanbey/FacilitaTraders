@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Facilita Trader</string>
+    <string name="Banca">Banca inicial</string>
+    <string name="Payout">Payout</string>
+    <string name="Retorno">Retorno</string>
 </resources>
